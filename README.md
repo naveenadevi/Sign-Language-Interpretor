@@ -11,7 +11,7 @@ Designed to bridge the communication gap for individuals with hearing or speech 
 -  Real-time hand gesture recognition using webcam input
 -  Trained CNN model on labeled image dataset of hand signs
 -  Translates static signs into corresponding alphabet/words
-- 🖥 User-friendly interface for live classification
+-  User-friendly interface for live classification
 
 ---
 
